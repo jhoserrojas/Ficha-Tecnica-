@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 229, 189);
+}
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+table, th, tr, td{
+    background-color: white;
+    border: 1px solid black;
+    min-width: 250px;
+    margin: auto;
+    font-size: 1em;
+}
