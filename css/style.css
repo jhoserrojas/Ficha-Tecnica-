@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 229, 189);
+    background-color: rgb(255, 251, 214);
 }
 img{
     display: block;
@@ -13,6 +13,25 @@ table, th, tr, td{
     margin: auto;
     font-size: 1em;
 }
+h2{
+    text-align: center;
+}
 button{
-    
+    border: 100px;
+    border: 5px rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 0px, 45;
+    margin: 30px;
+    letter-spacing: .1em;
+    word-spacing: .2em;
+    line-height: 2em;
+}
+button:hover{
+    background-color: aliceblue;
+}
+button:active{
+    background-color: aqua;
+}
+p{
+    border: 1px solid black;
 }
