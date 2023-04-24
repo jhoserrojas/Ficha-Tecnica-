@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 251, 214);
+    background-color: rgb(255, 231, 186);
 }
 img{
     display: block;
@@ -33,5 +33,9 @@ button:active{
     background-color: aqua;
 }
 p{
-    border: 1px solid black;
+    display: flex;
+    text-align: center;
+    background-color: white;
+    font-size: 1em;
+    width: 700px;
 }

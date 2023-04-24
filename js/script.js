@@ -1,4 +1,4 @@
-alert("Especificaciones Hadware y Software")
+
 function comprobar(){
     let producto, produccion, anteriores, actual, Modulo, Descripcion, Objetivo, Arquitectura, Servidorhadware, 
     Servidorsoftware, SOtros, Clientehadware, Clientesoftware, COtros, RequerimientosFuncionalesGenerales, 
